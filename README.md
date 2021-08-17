@@ -39,11 +39,11 @@
 <br><br>                  
                                        
 **개발환경 |**        
-플랫폼 -	Windows 10         
-언어 - Java, HTML, CSS, JavaScript         
-도구 - Eclipse, SQL Developer, Visual Studio Code, eXERD, Kakao oven          
-DB	- Oracle           
-WAS	- Apache Tomcat 8.5        
+- 플랫폼 :	Windows 10         
+- 언어 : Java, HTML, CSS, JavaScript         
+- 도구 : Eclipse, SQL Developer, Visual Studio Code, eXERD, Kakao oven          
+- DB : Oracle           
+- WAS	: Apache Tomcat 8.5        
 
 <br><br><br> 
 **구현화면(순서도 & ERD) |**
@@ -55,7 +55,7 @@ WAS	- Apache Tomcat 8.5
 <br><br>                           
 **담당업무 |**
 #### 도서검색
--상세검색, 주제별검색, 신착도서별검색, 대출베스트검색, 검색결과목록, 도서상세페이지, 희망도서 신청
+- 상세검색, 주제별검색, 신착도서별검색, 대출베스트검색, 검색결과목록, 도서상세페이지, 희망도서 신청
 
 
 #### 알림마당
