@@ -3,17 +3,16 @@
 
 **요약 |**
 이용자들에게 '최적화' & 관리자에게 '편리함'을 제공하는 도서관시스템
-   
-   
+<br><br>
 **기간 |**
 2021. 07. 13 ~ 2021. 08. 05 (약 3주)
-   
-   
+<br><br>
 **기획배경 |**
 - '책'이라는 컨텐츠를 통해 취향을 알고 싶고, 드러내고 싶어하는 이용자들의 니즈 증가
 - 사용자 친화적인 도서관 사이트에 대한 니즈
-       
-          
+<br><br>
+
+
 **세부 기능 사항 |**
 #### 1) 이용자
 도서 검색 서비스
@@ -37,27 +36,23 @@
 
 홈페이지 기능 자동화구현
 - 도서관 소장자료 현황 장서 수 및 차트 자동화 기능
-                       
-                             
-                               
+<br><br>                  
+                                       
 **개발환경 |**        
 플랫폼 -	Windows 10         
 언어 - Java, HTML, CSS, JavaScript         
 도구 - Eclipse, SQL Developer, Visual Studio Code, eXERD, Kakao oven          
 DB	- Oracle           
 WAS	- Apache Tomcat 8.5        
-   
-   
 
-
+<br><br><br> 
 **구현화면(순서도 & ERD) |**
 ### [순서도]
 ![level](https://user-images.githubusercontent.com/76515187/129681279-dce9d098-2ab7-4400-898d-108b22b967f5.png)
 ### [ERD]
 ![ERD](https://user-images.githubusercontent.com/76515187/129681270-e686c163-ad4d-4d94-8afe-22741a2dc46e.png)
                        
-                             
-                               
+<br><br>                           
 **담당업무 |**
 #### 도서검색
 -상세검색, 주제별검색, 신착도서별검색, 대출베스트검색, 검색결과목록, 도서상세페이지, 희망도서 신청
@@ -66,8 +61,7 @@ WAS	- Apache Tomcat 8.5
 #### 알림마당
 - 공지사항, 자주하는 질문(FAQ), 문의하기 조회, 문의하기 글쓰기(잠금기능), 게시물 수정, 게시물 삭제
                        
-                             
-                                  
+<br><br>                            
 **구현화면(WEB) |**   
 #### [도서검색]   
 ![1-1](https://user-images.githubusercontent.com/76515187/129681682-ce4dc866-3faf-4523-bd09-03e2f57a36fd.png)
@@ -88,7 +82,7 @@ WAS	- Apache Tomcat 8.5
 ![2-3-2-1](https://user-images.githubusercontent.com/76515187/129681723-c0c305a8-b0c2-4237-b734-8a6715fa50ee.png)
 ![2-3-4](https://user-images.githubusercontent.com/76515187/129681726-111b7c41-404c-43bf-ab8f-d24aa73e9c12.png)
 
-
+<br><br>
 **프로젝트 스토리 |**   
 
 앞서 익혀둔 Java, Oracle(DB)을 바탕으로 Servlet & JSP기술을 활용하여 '웹 프로젝트'가 진행되었습니다.
