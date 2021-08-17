@@ -63,7 +63,7 @@ WAS	- Apache Tomcat 8.5
                        
 <br><br>                            
 **구현화면(WEB) |**   
-#### [도서검색]   
+### [도서검색]   
 ![1-1](https://user-images.githubusercontent.com/76515187/129681682-ce4dc866-3faf-4523-bd09-03e2f57a36fd.png)
 ![1-1-1](https://user-images.githubusercontent.com/76515187/129681686-4823aecf-23b7-4db4-93d8-7e29e378e908.png)
 ![1-1-2-3(1)](https://user-images.githubusercontent.com/76515187/129681692-cbfed8bf-029f-4057-abc9-029a9b8ed9b9.png)
@@ -72,9 +72,8 @@ WAS	- Apache Tomcat 8.5
 ![1-3](https://user-images.githubusercontent.com/76515187/129681699-91379ddb-314b-4aad-8ed8-a34a0a788231.png)
 ![1-4-2](https://user-images.githubusercontent.com/76515187/129681703-2a8ff0bf-dba4-47a7-9b9b-fd7a383f060f.png)
 ![1-4-3](https://user-images.githubusercontent.com/76515187/129681709-99f05d1f-c811-4b69-9f44-6a12b35f6aa0.png)
-
-
-#### [알림마당]   
+<br><br>
+### [알림마당]   
 ![2-1](https://user-images.githubusercontent.com/76515187/129681712-508321ab-4955-42a1-91f9-dc4af4687c3a.png)
 ![2-2](https://user-images.githubusercontent.com/76515187/129681714-46d5af69-bc19-49ed-a885-fb271117c73a.png)
 ![2-3(1)](https://user-images.githubusercontent.com/76515187/129681715-88e9feef-34e7-4af7-a5de-98b4488539fd.png)
